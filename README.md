@@ -1,2 +1,1 @@
-# JasonKu
-good thing
+"# djangobot" 
